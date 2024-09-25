@@ -26,7 +26,7 @@ I am a Data Science and Machine Learning Enthusiast <img src="https://media.giph
 
 - :zap: In my free time, I love to listen to music and read books.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dhanush-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-p3072)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-p3072)
 
 ---
 
