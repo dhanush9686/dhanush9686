@@ -62,7 +62,7 @@ I am a Data Science and Machine Learning Enthusiast <img src="https://media.giph
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhanush9686&theme=dark&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush9686&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush9686&layout=compact&theme=vision-friendly-dark" alt="Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush9686&layout=compact&theme=vision-friendly-dark)"/></a>
 </div>
 
 
