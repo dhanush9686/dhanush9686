@@ -55,6 +55,9 @@ I am a Data Science and Machine Learning Enthusiast <img src="https://media.giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
 
 <!--
 **dhanush9686/dhanush9686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
