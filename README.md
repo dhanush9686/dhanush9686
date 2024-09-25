@@ -59,8 +59,10 @@ I am a Data Science and Machine Learning Enthusiast <img src="https://media.giph
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=dhanush9686
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhanush9686&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dhanush9686&theme=dark&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush9686&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
