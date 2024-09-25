@@ -59,7 +59,7 @@ I am a Data Science and Machine Learning Enthusiast <img src="https://media.giph
 
 ### :fire: My Stats :
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dhanush9686&theme=dark&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhanush9686&theme=dark&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
