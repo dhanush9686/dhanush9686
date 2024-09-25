@@ -59,6 +59,10 @@ I am a Data Science and Machine Learning Enthusiast <img src="https://media.giph
 
 ### :fire: My Stats :
 
+https://github-readme-streak-stats.herokuapp.com/?user=dhanush9686
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhanush9686&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <!--
 **dhanush9686/dhanush9686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
