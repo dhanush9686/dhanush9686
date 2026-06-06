@@ -1,84 +1,196 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dhanush-p3072">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="100" alt="LinkedIn Badge"/>
-  </a>
-</div>
+# Hi there 👋 I'm Dhanush
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+
+# AI/ML Engineer • Data Engineer • Cloud Enthusiast • Software Developer
+
+<a href="https://www.linkedin.com/in/dhanush-p3072">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-### :man_technologist: About Me :
+## 🚀 About Me
 
-I am a Data Science and Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Engineer, AI/ML Engineer, and Cloud Enthusiast from India.
 
-- :man_student: I’m currently pursuing my Masters in Computer Applications
+Currently, I work on enterprise software solutions, cloud-native applications, and AI-powered systems while continuously expanding my expertise in Artificial Intelligence, Data Engineering, AWS Cloud, DevOps, and Full-Stack Development.
 
-- :telescope: Exploring GenAI.
-
-- :💬: Ask me about data science and machine learning
-
-- :zap: In my free time, I love to listen to music and read books.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-p3072)
+I enjoy building intelligent systems that combine machine learning, scalable cloud infrastructure, and modern software engineering practices to solve real-world business problems.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🎯 Current Focus
+
+* Building AI-powered applications and intelligent automation systems
+* Exploring Generative AI, LLMs, and Agentic AI frameworks
+* Designing scalable cloud-native architectures on AWS
+* Learning advanced Data Engineering and MLOps practices
+* Strengthening DevOps and CI/CD knowledge
+* Practicing Data Structures & Algorithms
+
+---
+
+## 💼 Professional Interests
+
+* Artificial Intelligence & Machine Learning
+* Generative AI & Large Language Models
+* Data Engineering & Analytics
+* Cloud Computing & AWS
+* DevOps & Infrastructure Automation
+* Backend Engineering
+* Full-Stack Application Development
+* Scalable SaaS Platforms
+
+---
+
+## 🧩 Featured Projects
+
+### 🎵 Music Track Generation – Genre-Based AI Music Composition
+
+* Fine-tuned Meta's MusicGen model using the FMA dataset
+* Developed genre-specific music generation workflows
+* Performed audio preprocessing and MFCC feature extraction
+* Built an end-to-end music generation pipeline
+
+**Tech Stack:** Python, PyTorch, Transformers, MusicGen, Audio Processing
+
+---
+
+### 🛣️ Lane Keep Assist – Real-Time Lane Detection System
+
+* Developed a computer vision-based lane detection solution
+* Implemented image processing and edge detection techniques
+* Built a real-time lane recognition pipeline for driver assistance
+
+**Tech Stack:** Python, OpenCV, Computer Vision
+
+---
+
+### 📊 Review Extractor – Automated Review Mining & Sentiment Analysis
+
+* Extracted customer reviews from dynamic websites
+* Performed sentiment analysis on collected reviews
+* Generated structured datasets for downstream analytics
+
+**Tech Stack:** Python, Selenium, BeautifulSoup, APIs
+
+---
+
+### 🤟 Unheard Woes – ASL to Text Conversion using CNN
+
+* Developed a real-time American Sign Language recognition system
+* Converted sign language gestures into readable text
+* Built an assistive application using deep learning techniques
+
+**Tech Stack:** Python, CNN, OpenCV, Hunspell, PyEnchant
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,javascript" />
+</p>
+
+---
+
+### Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+---
+
+### Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
+</p>
+
+---
+
+### AI / Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+**Libraries & Frameworks**
+
+* LangChain
+* Hugging Face Transformers
+* Scikit-Learn
+* OpenCV
+* Pandas
+* NumPy
+* Matplotlib
+
+---
+
+### Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+**Experience With**
+
+* AWS
+* CI/CD Concepts
+* Cloud Architecture
+* Infrastructure Automation
+
+---
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+**Additional Databases**
+
+* DynamoDB
+* Redis
+
+---
+
+### LeetCode Profile
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R Studio" **alt="Tensorflow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" **alt="Tensorflow" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" **alt="Tensorflow" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Tensorflow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="apachespark" **alt="Tensorflow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" **alt="Tensorflow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Tensorflow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" **alt="C" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Tensorflow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg" title="Hadoop" **alt="Tensorflow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Tensorflow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
+<a href="https://leetcode.com/u/Dhanush9686/">
+<img src="https://leetcard.jacoblin.cool/Dhanush9686?theme=dark&font=Nunito&ext=heatmap" />
+</a>
+
 </div>
 
 ---
 
-<!--### :fire: My Stats :
+## 🤝 Connect With Me
+
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhanush9686&theme=dark&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
-</div> -->
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush9686&layout=compact&theme=vision-friendly-dark" alt="Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush9686&layout=compact&theme=vision-friendly-dark)"/></a>
+
+<a href="https://www.linkedin.com/in/dhanush-p3072">
+<img src="https://img.shields.io/badge/LinkedIn-Dhanush_P-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
+---
 
+## ⚡ Fun Fact
 
+I enjoy building solutions at the intersection of Artificial Intelligence, Cloud Computing, Data Engineering, and Software Development. When I'm not coding, you'll usually find me solving DSA problems, exploring emerging technologies, listening to music, or reading books.
 
-<!--
-**dhanush9686/dhanush9686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me on LinkedIn.
